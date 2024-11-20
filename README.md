@@ -1,4 +1,4 @@
-HR Data Analysis Project
+# HR Data Analysis Project
 This project provides an in-depth analysis of HR data, leveraging Python, SQL, and Power BI to uncover insights related to employee performance, satisfaction, experience, and attrition. It includes interactive dashboards and SQL-driven insights, enabling HR managers to make informed decisions to enhance employee retention, optimize performance evaluations, and improve job satisfaction.
 
 📌 Project Goals
@@ -8,7 +8,8 @@ Understanding Performance Trends: Explore discrepancies and trends in self and m
 Optimizing Training and Development: Evaluate the impact of training opportunities on top performers.
 Enhancing Employee Retention: Pinpoint factors influencing attrition to develop targeted strategies.
 🛠️ Tools and Technologies
-Python:
+
+## Python:
 
 Data preprocessing and cleaning.
 Libraries used: Pandas, NumPy, SQLAlchemy.
@@ -16,13 +17,15 @@ Key actions:
 Handled missing values and formatted columns.
 Calculated metrics like attrition year and filtered out-of-range performance reviews.
 Merged datasets and standardized data types.
-SQL:
+
+## SQL:
 
 Data storage and advanced analysis.
 Key actions:
 Connected Python to SQL Server using SQLAlchemy.
 Uploaded preprocessed data and ran SQL queries for insights on salaries, performance, and satisfaction.
-Power BI:
+
+## Power BI:
 
 Interactive dashboards for visualization and analysis.
 Key actions:
