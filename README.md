@@ -76,9 +76,10 @@ Trends in salary distribution and its correlation with performance.
 Satisfaction discrepancies across departments and roles.
 Identification of high-risk attrition areas.
 Impact of training programs on top performers.
+
 🚀 Team Members
-Hady Mohamed Kilany
-Yomna Elsayed Shehata
-Shiamaa Elromh
-Mohamed Yassen
-Farah Essam
+- Hady Mohamed Kilany
+- Yomna Elsayed Shehata
+- Shiamaa Elromh
+- Mohamed Yassen
+- Farah Essam
